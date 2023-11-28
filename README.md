@@ -1,5 +1,5 @@
 
-# Solition : [Image Gallery](https://brucereactgallery.netlify.app)
+### Solition : [Image Gallery](https://brucereactgallery.netlify.app)
 # Project-01 : Image Gallery
 
 ## Description
