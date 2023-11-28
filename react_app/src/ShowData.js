@@ -13,22 +13,13 @@ export const DataMap = () => {
         {emoji.random().emoji}
       </h1>
 
-      <div
-        className="pictures"
-        //   style={{
-        //     display: "flex",
-        //     gap: "1rem",
-        //     flexWrap: "wrap",
-        //     alignItems: "center",
-        //     justifyContent: "center",
-        //   }}
-      >
+      <div className="pictures">
         {data.map((item) => (
           <>
             <div className="picture">
               <div className="imageContainer">
                 <img
-                  //   style={{ width: "250px", height: "250px", borderRadius: "20px" }}
+              
                   src={item.src.large}
                   alt=""
                 />
